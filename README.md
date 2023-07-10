@@ -6,4 +6,4 @@ The modpack includes various mods related to guns, health regeneration systems, 
 
 Enjoy playing the game!
 
-Trailer: https://youtu.be/6Nyr9LMahPg
+Trailer: [Youtube](https://youtu.be/6Nyr9LMahPg).

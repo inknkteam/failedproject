@@ -2,7 +2,7 @@
 
 The modpack includes various mods related to guns, health regeneration systems, blood moons, diseases, and many other features.
 
-WARNING: NOT RECOMMENDED FOR OLDER COMPUTERS TO PLAY THIS MODPACK, AS IT MAY LEAD TO GAME CRASHES. IT CAN EVEN DAMAGE YOUR COMPUTER.
+**WARNING: NOT RECOMMENDED FOR OLDER COMPUTERS TO PLAY THIS MODPACK, AS IT MAY LEAD TO GAME CRASHES. IT CAN EVEN DAMAGE YOUR COMPUTER.**
 
 Enjoy playing the game!
 
